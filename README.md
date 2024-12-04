@@ -35,18 +35,18 @@
  ![Pantalla de Inicio de Sesión](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/iniciar_secion.png)
 
 - **Pantalla de Registro**:
-  
+  ![Pantalla de Registro](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/crear_usuario.png)
 
 - **Pantalla Principal**:
-  
+  ![Pantalla Principal](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/pantalla_principal.png)
 
 - **Gestión de Productos**:
   - **Agregar Producto**:
-    
+    ![Agregar Producto](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/a%C3%B1adir_producto.png)
   - **Editar Producto**:
-    
+     ![Agregar Producto](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/editar_producto.png)
   - **Eliminar Producto**:
-    
+     ![Agregar Producto](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/eliminar_producto.png)
   - **Listado de Productos**:
     
 
@@ -104,7 +104,7 @@ mqttHandler.subscribe("tienda/productos");
 ```
 
 ### Ejemplo de Mensajes MQTT:
-
+![MQTT](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/mqtt.png)
 
 ## Cómo Ejecutar el Proyecto
 
