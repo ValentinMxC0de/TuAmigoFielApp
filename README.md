@@ -48,7 +48,7 @@
   - **Eliminar Producto**:
      ![Agregar Producto](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/eliminar_producto.png)
   - **Listado de Productos**:
-    
+    ![Listado de Productos](https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/lista_productos.png)
 
 ## Conexión con Firebase
 
