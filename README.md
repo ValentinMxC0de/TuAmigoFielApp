@@ -131,4 +131,3 @@ implementation 'org.eclipse.paho:org.eclipse.paho.android.service:1.1.1'
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-```
