@@ -32,7 +32,7 @@
 
 ### Pantallas de la Aplicación
 - **Pantalla de Inicio de Sesión**:
-  (https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/iniciar_secion.png)
+  !(https://github.com/ValentinMxC0de/TuAmigoFielApp/blob/main/iniciar_secion.png)
 
 - **Pantalla de Registro**:
   
