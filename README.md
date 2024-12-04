@@ -32,7 +32,7 @@
 
 ### Pantallas de la Aplicación
 - **Pantalla de Inicio de Sesión**:
-  
+  *(iniciar_secion)*
 
 - **Pantalla de Registro**:
   
