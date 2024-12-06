@@ -1,4 +1,4 @@
-# TuAmigoFiel - Gestión de Productos para Mascotas 🚀
+# TuAmigoFiel - Gestión de Productos para Mascotas 🐶🐾
 
 ## Descripción del Proyecto
 **TuAmigoFiel** es una aplicación móvil diseñada para gestionar productos relacionados con mascotas. Permite a los usuarios agregar, editar, eliminar y listar productos de manera eficiente. La aplicación utiliza **Firebase Realtime Database** para almacenar los datos de los productos y **MQTT** para notificaciones en tiempo real, asegurando una experiencia fluida y actualizada para los usuarios.
