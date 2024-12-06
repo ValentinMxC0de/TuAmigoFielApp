@@ -110,7 +110,7 @@ mqttHandler.subscribe("tienda/productos");
 
 ### Clonar el Repositorio:
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/ValentinMxC0de/TuAmigoFielApp
 ```
 
 ### Abrir en Android Studio:
